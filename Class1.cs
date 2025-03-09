@@ -10,7 +10,7 @@ namespace OOP_
     public class HighInterfaceArrayImpl : IHighInterfaceArray
     {
 
-        private readonly long[] array;
+        private readonly long[] array; апывап
         private int nElems;
 
         public HighInterfaceArrayImpl(int size)
