@@ -12,8 +12,8 @@ namespace OOP_
 
         private readonly long[] array;
         private int nElems;
-
-        public HighInterfaceArrayImpl(int size)
+ 
+        public HighInterfaceArrayImpl(int size)  вафыва
         {
             array = new long[size];
             nElems = 0;
